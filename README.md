@@ -61,7 +61,7 @@ class ZeyadKandil:
 ### 📊 GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZJoker10&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=00F7FF&count_private=true&include_all_commits=true" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZJoker10&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=00F7FF" width="450" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZJoker10&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&fire=FFD93D&ring=FF6B6B&currStreakNum=FFFFFF" width="400" />
 </p>
 
